@@ -1,0 +1,81 @@
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\appsettings.Development.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\appsettings.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\HW(Web)_1(WEB API).exe
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\HW(Web)_1(WEB API).deps.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\HW(Web)_1(WEB API).runtimeconfig.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\HW(Web)_1(WEB API).dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\HW(Web)_1(WEB API).pdb
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).csproj.AssemblyReference.cache
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).GeneratedMSBuildEditorConfig.editorconfig
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).AssemblyInfoInputs.cache
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).AssemblyInfo.cs
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).csproj.CoreCompileInputs.cache
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).MvcApplicationPartsAssemblyInfo.cache
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets\msbuild.HW(Web)_1(WEB API).Microsoft.AspNetCore.StaticWebAssets.props
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets\msbuild.build.HW(Web)_1(WEB API).props
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HW(Web)_1(WEB API).props
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HW(Web)_1(WEB API).props
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets.pack.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets.build.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\staticwebassets.development.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\scopedcss\bundle\HW(Web)_1(WEB API).styles.css
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).csproj.CopyComplete
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\refint\HW(Web)_1(WEB API).dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).pdb
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).genruntimeconfig.cache
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\ref\HW(Web)_1(WEB API).dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\DataProject.deps.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\DataProject.runtimeconfig.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\DataProject.exe
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Humanizer.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.CodeDom.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\DataProject.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\DataProject.pdb
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Azure.Core.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Azure.Identity.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\System.Memory.Data.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).MvcApplicationPartsAssemblyInfo.cs
