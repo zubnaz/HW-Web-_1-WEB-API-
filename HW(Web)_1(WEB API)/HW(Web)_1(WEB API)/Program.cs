@@ -2,6 +2,9 @@ using DataProject.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
+using BusinessLogic.Interfaces;
+using BusinessLogic.Services;
+using System.Text.Json.Serialization;
 
 string path;
 var builder = WebApplication.CreateBuilder(args);
@@ -9,11 +12,15 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 path = builder.Configuration.GetConnectionString("Connect")!;
 builder.Services.AddControllers();
-
+builder.Services.AddControllers().AddJsonOptions(x =>
+                x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 builder.Services.AddDbContext<AutoDbContext>(opts => opts.UseSqlServer(path));
+builder.Services.AddScoped<IAutosServices, AutoServices>();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

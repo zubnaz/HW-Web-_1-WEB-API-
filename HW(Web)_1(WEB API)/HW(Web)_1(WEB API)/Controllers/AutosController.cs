@@ -2,6 +2,11 @@
 using DataProject.Data.Entitys;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using BusinessLogic.ApiModels.Autos;
+using BusinessLogic.Services;
+using BusinessLogic.Interfaces;
+using BusinessLogic.Helpers;
+using BusinessLogic.Dtos;
 
 namespace HW_Web__1_WEB_API_.Controllers
 {
@@ -9,50 +14,55 @@ namespace HW_Web__1_WEB_API_.Controllers
     [ApiController]
     public class AutosController : ControllerBase
     {
-        public AutosController(AutoDbContext adc)
+        public AutosController(IAutosServices ias)
         {
-            Adc = adc;
+            Ias = ias;         
         }
 
-        private readonly AutoDbContext Adc;
+        private readonly IAutosServices Ias;
+        
 
+        
         [HttpGet("all")]
-
+        
         public IActionResult Get()
         {
-            return Ok(Adc.Autos.ToList());
+            return Ok( Ias.Get());
+        }
+        [HttpGet("all-async")]
+        public async Task<IActionResult> GetAsync()
+        {
+            return Ok(await Ias.GetAsync());
         }
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public IActionResult GetByIdFromRoute([FromRoute] int id)
         {
-            var auto = Adc.Autos.Find(id);
-            if (auto == null) return NotFound();
-            return Ok(auto);
+            return Ok(Ias.Get(id));
         }
-        [HttpPost]
-        public IActionResult Add(Auto auto)
+        [HttpGet("{id}-async")]
+        public async Task<IActionResult> GetByIdFromRouteAsync([FromRoute] int id)
         {
-            if(!ModelState.IsValid) return BadRequest();
-            Adc.Autos.Add(auto);
-            Adc.SaveChanges();
-            return Ok(auto);
+            
+            return Ok(await Ias.GetAsync(id));
         }
-        [HttpPut]
-        public IActionResult Update(Auto auto)
+
+        [HttpPost("Create")]
+        public async Task<IActionResult> Add(CreateAutoModel auto)
         {
-            if (!ModelState.IsValid) return BadRequest();
-            Adc.Autos.Update(auto);
-            Adc.SaveChanges();
-            return Ok(auto);
+            await Ias.Create(auto);
+            return Ok();
         }
-        [HttpDelete]
-        public IActionResult Delete(int id)
+        [HttpPut("Edit")]
+        public async Task<IActionResult> Update(EditAutoModel auto)
         {
-            var auto = Adc.Autos.Find(id);
-            if (auto == null) return BadRequest();
-            Adc.Autos.Remove(auto);
-            Adc.SaveChanges();
-            return Ok(Adc.Autos.ToList());
+            await Ias.Edit(auto);
+            return Ok();
+        }
+        [HttpDelete("Delete")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            await Ias.Delete(id);           
+            return Ok();
         }
     }
 }

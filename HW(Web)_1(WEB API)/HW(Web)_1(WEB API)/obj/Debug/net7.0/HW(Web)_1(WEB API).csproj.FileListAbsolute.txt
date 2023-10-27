@@ -78,4 +78,11 @@ D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\n
 D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\BusinessLogic.deps.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\BusinessLogic.runtimeconfig.json
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\BusinessLogic.exe
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\AutoMapper.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\BusinessLogic.dll
+D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\bin\Debug\net7.0\BusinessLogic.pdb
 D:\SHAG\Web\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\HW(Web)_1(WEB API)\obj\Debug\net7.0\HW(Web)_1(WEB API).MvcApplicationPartsAssemblyInfo.cs
